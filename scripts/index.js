@@ -49,7 +49,7 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['ANADA DUERMEE', 'HELLEN!', config.name],
+      strings: ['FELIZ 14', 'HELLEN!', config.name],
       charSize: 30,
       charSpacing: 28,
       lineHeight: 40,
